@@ -1,0 +1,35 @@
+#WARNING! Don't use backslashes in file paths and urls.
+#Use only double quotes
+
+
+
+#These are configurable parameters
+
+#Path to the folder with project on the computer
+path_folder = ""
+
+#Path to the = shared repository
+repository_url = ""
+
+#The branch from which main updates will be taken
+main_branche = ""
+
+#The branch from which beta updates will be taken
+beta_branche = ""
+
+#Path to the version file (used on github and on this computer)
+version_path = ""
+
+user = "user"
+
+
+
+#Please do not change these parameters. The program will change them independently
+
+now_version = ""
+
+commit_all_main = ""
+
+commit_all_beta = ""
+
+using_type = ""
